@@ -50,7 +50,7 @@ Then with the Mint and Burn function copy the account link to the address then i
 ## Authors
 
 Gyllvdrakegelo
-@8EsDETmYf7o7iDCc5LqxL4pA9njw8hw9ibWrrF2fEdWX
+@https://twitter.com/Gyllvdrakegelo
 
 ## License
 
