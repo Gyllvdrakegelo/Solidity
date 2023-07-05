@@ -46,12 +46,6 @@ Then with the Mint and Burn function copy the account link to the address then i
 
 
 }
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
@@ -60,4 +54,4 @@ Gyllvdrakegelo
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
